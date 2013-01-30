@@ -1,0 +1,7 @@
+2012-12-17 14:15:54.601 -0800	START		Running CreateProject.script
+2012-12-17 14:15:55.271 -0800	click	Safari	at (465, 999)	1	on_createproject	CreateProject.script
+2012-12-17 14:15:57.463 -0800	click	image0001	at (480, 56)	2	on_createproject	CreateProject.script
+2012-12-17 14:15:58.488 -0800	typetext		http://192.168.100.68/flex[return]	3	on_createproject	CreateProject.script
+2012-12-17 14:16:08.041 -0800	Exception	loginImage	No Image Found On Screen: "loginImage"	5	on_createproject	CreateProject.script
+2012-12-17 14:16:08.052 -0800	EndTestCase		(Duration:"13.448484", Errors:"1", Exceptions:"1", StartTime:"2012-12-17 14:15:54 -0800", Successes:"0", TestCase:"CreateProject.script", Warnings:"0")
+2012-12-17 14:16:08.201 -0800	FAILURE	Screen_Error.tiff	Image Not Found click Error - No Image Found On Screen: "loginImage"\nExecution Time 0:00:13 CreateProject.script

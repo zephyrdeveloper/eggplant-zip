@@ -1,0 +1,3 @@
+2012-12-17 16:37:42.184 -0800	START		Running CreateProject.script
+2012-12-17 16:39:57.562 -0800	EndTestCase		(Duration:"135.377055", Errors:"1", Exceptions:"0", StartTime:"2012-12-17 16:37:42 -0800", Successes:"0", TestCase:"CreateProject.script", Warnings:"0")
+2012-12-17 16:39:57.590 -0800	ABORTED		Execution Time 0:02:15 CreateProject.script

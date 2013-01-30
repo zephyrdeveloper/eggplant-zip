@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CaptureDate</key>
+	<date>2012-12-17T22:08:25Z</date>
+	<key>CaptureHost</key>
+	<string>Shailesh Mangalâs MacBook Pro</string>
+	<key>HasAlpha</key>
+	<true/>
+	<key>HonorAlpha</key>
+	<true/>
+	<key>HotSpotX</key>
+	<integer>32</integer>
+	<key>HotSpotY</key>
+	<integer>31</integer>
+	<key>LastKnownLocationX</key>
+	<integer>0</integer>
+	<key>LastKnownLocationY</key>
+	<integer>0</integer>
+	<key>OriginalLocationX</key>
+	<integer>448</integer>
+	<key>OriginalLocationY</key>
+	<integer>25</integer>
+	<key>Pulsing</key>
+	<false/>
+</dict>
+</plist>

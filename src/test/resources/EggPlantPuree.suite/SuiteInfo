@@ -1,0 +1,13 @@
+{
+    EPVersionNumber = 1212121914;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+        CreateProject =         {
+        };
+        Untitled =         {
+        };
+    };
+    helperSuitesInfo =     (
+    );
+}

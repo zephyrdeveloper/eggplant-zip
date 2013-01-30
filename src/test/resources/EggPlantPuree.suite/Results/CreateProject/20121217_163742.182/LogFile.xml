@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateProject.script" package="EggPlantPuree.suite" timestamp="2012-12-17 16:37:42.182 -0800"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2012-12-17 16:37:42.182 -0800"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="CreateProject.script" assertions="1" successes="0" errors="1" time="135.377055">
+  </testcase>
+ </testsuite>
+</testsuites>

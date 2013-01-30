@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<statistics>
+ <script name="CreateProject">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2012-12-17 14:14:21 -0800</FirstRun>
+  <LastRun>2012-12-17 15:17:12 -0800</LastRun>
+  <TotalTimeOnSuccess>111.334030</TotalTimeOnSuccess>
+ </script>
+</statistics>

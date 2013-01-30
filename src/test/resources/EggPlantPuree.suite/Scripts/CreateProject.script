@@ -1,0 +1,11 @@
+Click "Safari"
+Click "image0001"
+TypeText "http://192.168.100.68/flex"
+TypeText Return
+WaitFor 8.0,"loginImage"
+Click "loginImage"
+TypeText "test.manager", Tab
+TypeText "test.manager",Return
+Click (Text:"Project Setup")
+Click "logoutImage"
+Click "WindowClose"
